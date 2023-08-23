@@ -2,6 +2,10 @@
 
 Welcome to the official repository collection for FindMyCat - The Open-Source Pet Tracker. Here you can find all the code and hardware files you will need to build your own.
 
+Official Website: 
+
+Engineering Docs: 
+
 
 ### Meet the creator
 ![image](https://github.com/FindMyCat/.github/assets/18511823/8ca5f8e2-9560-4658-a672-7b3e59076e8a)
