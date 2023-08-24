@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This organization is under construction :building_construction:, if you are here before official launch, Hi 👋, please visit after September 12th (official launch day) as most of the goodies will go public then.
+<i>This organization is under construction :building_construction:, if you are here before official launch, Hi 👋, please visit after September 12th (official launch day) as most of the goodies will go public then.</i>
+
+<hr/>
 
 Welcome to the official repository collection for FindMyCat - The Open-Source Pet Tracker. Here you can find all the code and hardware files you will need to build your own.
 
