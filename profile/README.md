@@ -6,12 +6,6 @@ Official Website: www.findmycat.io
 
 Engineering Docs: www.findmycat.io/docs
 
-### Get in touch
-If you are interested in following this project further, meet other makers and share knowledge you can join the [FindMyCat Slack channel](https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw).
-
-<a href="https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw">
-<img width="100px" src="https://github.com/FindMyCat/.github/assets/18511823/d5c61771-efce-4dfb-b317-1888b05a184d"/></a>
-
 
 ### Meet the creator
 ![image](https://github.com/FindMyCat/.github/assets/18511823/8ca5f8e2-9560-4658-a672-7b3e59076e8a)
@@ -27,3 +21,11 @@ If you are interested in following this project further, meet other makers and s
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+### Get in touch
+If you are interested in following this project further, meet other makers and share knowledge you can join the [FindMyCat Slack channel](https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw).
+
+<a href="https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw">
+<img width="100px" src="https://github.com/FindMyCat/.github/assets/18511823/d5c61771-efce-4dfb-b317-1888b05a184d"/></a>
+
