@@ -24,7 +24,7 @@ Engineering Docs: www.findmycat.io/docs
 
 
 ### Get in touch
-If you are interested in following this project further, meet other makers and share knowledge you can join the [FindMyCat Slack channel](https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw).
+If you are interested in following this project further, meet other makers and share knowledge you can join the [FindMyCat Slack channel](https://join.slack.com/t/findmycat/shared_invite/zt-35t6pjo47-_AQ5SM2C7mhZzyzniFuEjA).
 
 <a href="https://join.slack.com/t/findmycat/shared_invite/zt-21wo1f57m-zVcXlUkAvFmwDA3k5uYysw">
 <img width="100px" src="https://github.com/FindMyCat/.github/assets/18511823/d5c61771-efce-4dfb-b317-1888b05a184d"/></a>
